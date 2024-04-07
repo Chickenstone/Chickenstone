@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chickenstone.
 - 👀 Just a C/Java dumb learner.
 - 🌱 I’m currently learning C/Java for NCRE.
-- 📫 link@chickkenstone.top
+- 📫 link@chickenstone.top
 
 
 <!---
