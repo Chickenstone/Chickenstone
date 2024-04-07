@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chickenstone
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Chickenstone.
+- 👀 Just a C/Java dumb learner.
+- 🌱 I’m currently learning C/Java for NCRE.
+- 📫 link@chickkenstone.top
+
 
 <!---
 Chickenstone/Chickenstone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
